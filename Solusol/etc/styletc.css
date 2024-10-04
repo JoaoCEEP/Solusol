@@ -1,0 +1,22 @@
+.solusol {
+    color: rgb(29, 161, 29);
+    font-family: rubik;
+    margin-left: 1.5em;
+    margin-top: 1cm;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    color: rgb(29, 161, 29);
+    font-family: rubik;
+    margin-top: 1cm;
+}
+
+.texto {
+    font-family: inter;
+    margin-top: 1.5cm;
+    margin-left: 1.5cm;
+    margin-right: 1.5cm;
+    font-size: 22px;
+}
