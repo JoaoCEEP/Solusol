@@ -1,3 +1,7 @@
+strong {
+    color: rgb(38, 182, 38);
+}
+
 .solusol {
     color: rgb(29, 161, 29);
     font-family: rubik;
@@ -10,13 +14,53 @@
     justify-content: center;
     color: rgb(29, 161, 29);
     font-family: rubik;
+    margin-top: 0.85cm;
+}
+
+.topico {
+    font-family: rubik;
+    margin-left: 1cm;
+    font-size: 27px;
+}
+
+.texto_inicio {
+    font-family: inter;
     margin-top: 1cm;
+    margin-left: 1.5cm;
+    margin-right: 1.5cm;
+    font-size: 23px;
 }
 
 .texto {
     font-family: inter;
-    margin-top: 1.5cm;
     margin-left: 1.5cm;
     margin-right: 1.5cm;
+    font-size: 23px;
+    margin-top: -0.2cm;
+}
+
+.sub_topico {
+    text-align: center;
+    font-family: rubik;
+    font-size: 20px;
+    margin-right: 42cm;
+}
+
+.lista {
+    font-family: inter;
+    margin-left: 10cm;
+    margin-top: -11.7cm;
     font-size: 22px;
+}
+
+.lista_tripe {
+    font-family: inter;
+    font-size: 22px;
+    margin-top: 1cm;
+}
+
+.img {
+    margin: auto;
+    display: block;
+    width: 40%;
 }
